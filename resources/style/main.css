@@ -1,0 +1,28 @@
+div#main {
+    text-align: center;
+}
+
+input#submit {
+    display: inline-block;
+    color: #777;
+    background-color: #eee;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 12px;
+    padding: 10px 30px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-bottom-width: 3px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#msg {
+    color: darkred;
+}
+
+#result {
+    color: forestgreen;
+}
