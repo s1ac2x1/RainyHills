@@ -12,5 +12,6 @@ The EJB is Local assuming it is suitable only for usage inside WAR and not acros
 To eliminate possible CPU consumption I've added in-memory caching (without eviction).
 
 Packaging as WAR and ready for deployment to application server.
+
 After deploy please welcome: http://localhost:8080/rainyhills-1.0/
 
