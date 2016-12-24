@@ -1,4 +1,4 @@
-![Solution for that task](https://octodex.github.com/images/yaktocat.png)
+![Solution for that task](https://github.com/s1ac2x1/RainyHills/blob/master/task.jpg)
 
 # Rainy Hills 1.0
 
