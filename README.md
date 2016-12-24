@@ -1,3 +1,5 @@
+![Solution for that task](https://octodex.github.com/images/yaktocat.png)
+
 # Rainy Hills 1.0
 
 The application is ready for Application Servers with EJB container support.
