@@ -8,9 +8,7 @@
     <name>RainyHills</name>
     <version>1.0</version>
 
-    <description>Coding Exercise for CRM Markets job application</description>
-
-    <developers>
+         <developers>
         <developer>
             <id>vkishlaly</id>
             <name>Vladimir Kishlaly</name>
